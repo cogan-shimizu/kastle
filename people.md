@@ -3,7 +3,14 @@
 ## People
 
 ### Leader
-[Dr. Cogan Shimizu](https://coganshimizu.com)
+[Cogan Shimizu](https://coganshimizu.com)
 
 ### Graduate Students
 * Antrea Christou
+
+### Undergraduate Students
+
+### Affiliated Faculty
+* [Pascal Hitzler](https://pascal-hitzler.de)
+
+### Alumni
